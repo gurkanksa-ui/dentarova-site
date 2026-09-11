@@ -23,4 +23,4 @@ Next.js website for Dentarova, focused on helping dental clinics acquire and con
 The form posts to `/api/leads`. Set `CRM_WEBHOOK_URL` to send each lead to your CRM/automation platform.
 
 ## Production
-Set `NEXT_PUBLIC_SITE_URL` to your real domain before deployment.
+Set `NEXT_PUBLIC_SITE_URL` to your real domain before deployment. s
